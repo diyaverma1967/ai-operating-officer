@@ -8,25 +8,35 @@ export default function ActionsRow({ suggestedActions }: { suggestedActions: str
 
   const { github, jira, graph } = detectActionTypes(suggestedActions);
 
-  const handleJira = async () => {
-    const jiraAction = suggestedActions.find((act) =>
-      /jira|ticket|issue|open ticket/i.test(act)
-    );
-    if (!jiraAction) return;
-    const res = await fetchTriggerAutomation("jira", jiraAction, "");
-    if (res.url) setJiraUrl(res.url);
-    else alert("Jira ticket creation failed.");
+ const handleJira = async () => {
+  const jiraAction = suggestedActions.find((act) =>
+    /jira|ticket|issue|open ticket/i.test(act)
+  );
+  if (!jiraAction) return;
+  const res = await fetchTriggerAutomation("jira", jiraAction, "");
+  console.log("Jira response:", res);
+
+  if (res.result && res.result.url) {
+    setJiraUrl(res.result.url);
+  } else {
+    alert("Jira ticket creation failed.");
+  } 
   };
 
   const handleGithub = async () => {
-    const githubAction = suggestedActions.find((act) =>
-      /github|repo|repository|codebase/i.test(act)
-    );
-    if (!githubAction) return;
-    const res = await fetchTriggerAutomation("github", githubAction, "");
-    if (res.url) setGithubUrl(res.url);
-    else alert("GitHub repo creation failed.");
-  };
+  const githubAction = suggestedActions.find((act) =>
+    /github|repo|repository|codebase/i.test(act)
+  );
+  if (!githubAction) return;
+  const res = await fetchTriggerAutomation("github", githubAction, "");
+  console.log("GitHub response:", res);
+
+  if (res.result && res.result.url) {
+    setGithubUrl(res.result.url);
+  } else {
+    alert("GitHub repo creation failed.");
+  }
+};
 
   const handleGraphAPI = () => {
     window.open("https://calendar.google.com/calendar/r/eventedit", "_blank");
