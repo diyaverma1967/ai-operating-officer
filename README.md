@@ -68,5 +68,5 @@ requirements.txt# Python dependencies
 README.md       # This document
 ```
 
-*Reference:* [GitHub Repository](https://github.com/diyaverma1967/ai-operating-officer-)
+*Demo Link:* https://drive.google.com/file/d/1HsVHj2i04_60TXBbN6c__fbkDE-_FX13/view?usp=sharing 
 
