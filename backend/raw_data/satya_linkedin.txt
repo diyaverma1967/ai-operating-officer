@@ -1,0 +1,132 @@
+## Satya Nadella: Launches, Models, and Platform Vision
+
+### o3-mini Model Launch
+o3-mini is here and ships today on Azure AI Foundry and GitHub Copilot and Models. Can't wait to see what you build!
+Read more: Microsoft Azure OpenAI Service | Microsoft Azure Blog
+
+### Jevons Paradox and AI
+Jevons paradox strikes again! As AI gets more efficient and accessible, we will see its use skyrocket, turning it into a commodity we just can't get enough of.
+Learn more: Jevons paradox - Wikipedia
+
+### Cricket and Excel World Champ
+For me, cricket is maybe the only thing that could possibly come close to watching the Excel World Champ on ESPN!
+https://lnkd.in/gvdZV5JM
+
+### Tokens per Watt per Dollar
+"Tokens per watt per dollar"—the sweet spot where energy, compute power, and intelligence meet—will be a game-changing formula for driving GDP growth. Great to chat about this with Nicholas Thompson today.
+Satya Nadella has proposed a new metric for measuring the efficiency of AI models: tokens per watt per dollar. It’s a smart framework for bringing energy costs into the way we track intelligence.
+
+---
+
+## Satya Nadella: Partnerships and Leadership
+
+### US Presidential Inauguration
+Congratulations to President Trump and Vice President Vance on your historic inauguration. We look forward to partnering with you and your administration to harness the power of technology for growth and help drive America's competitiveness and leadership around the world.
+
+### MatterGen and Materials Innovation
+Today in Nature Magazine: Our MatterGen model represents a paradigm shift in materials design, applying generative AI to create new compounds with specific properties with unprecedented precision.
+Read more: https://lnkd.in/gURKjUce
+
+---
+
+## Satya Nadella: Copilot and Multimodal AI
+
+### Microsoft 365 Copilot Chat
+Announcing Microsoft 365 Copilot Chat. Making AI more accessible to every employee in every business.
+Learn more: aka.ms/CopilotChat
+
+### Mayo Clinic Collaboration
+The foundation models we'll build with Mayo Clinic promise to help transform how radiologists do their work, using multimodal AI to help them analyze X-rays faster and more accurately.
+
+Javier Alvarez Valle shared:  
+Today, I am excited to share our collaboration with Mayo Clinic.  
+By leveraging Mayo's medical expertise and Microsoft Research’s AI advancements, including the multimodal foundation model MAIRA-2 and the recently published RAD-DINO encoder in Nature Machine Intelligence, we aim to explore and unlock new frontiers in radiology.  
+This study assesses the carbon, water, and energy impacts of various cooling techniques across datacenters' entire life cycles and is a testament to our commitment to sustainability and innovation.
+
+---
+
+## Satya Nadella: GitHub Copilot Workspace and Agents
+
+There is no more waitlist for GitHub Copilot Workspace—the most advanced agentic editor. Start building with agents today.
+Sign up here: https://lnkd.in/g9WCJZDd
+
+---
+
+## Satya Nadella: AI for Good, Social Impact, and Disaster Response
+
+Our hearts go out to everyone affected by the devastating fires in California.
+In collaboration with Planet Labs, we leveraged our damage assessment AI models on high-resolution SkySat satellite imagery provided by Planet. This collaboration enabled us to map affected areas and generate critical insights to aid recovery efforts. These maps have been shared with organizations on the ground to assist in damage assessments and response planning.
+
+Key Findings from Los Angeles Imagery Analysis:  
+- 17,835 buildings analyzed  
+- 6,251 are obscured by clouds, shadow, or smoke  
+- 9,229 are likely unaffected  
+- 2,355 are likely affected by the fires
+
+The AI for Good Lab remains steadfast in its commitment to supporting affected communities during this challenging time.
+Explore the data: https://lnkd.in/g6swWfh6
+
+---
+
+## Satya Nadella: Edge AI and GPU News
+
+Exciting to see the new RTX 50-series GPUs and Windows Subsystem for Linux powering models from Nvidia NIM and Azure AI Foundry on Windows 11 PCs. A game-changer for running AI on the edge.
+
+---
+
+## Satya Nadella: AI in Agriculture
+
+It was great to meet the team at ADT Baramati, who are using our AI tools to help farmers grow healthier, more sustainable harvests.
+Read the story: India’s sugar cane farmers use AI to predict weather, fight pests and optimize harvests - news.microsoft.com
+
+---
+
+## Satya Nadella: AI Infrastructure and India
+
+Just in time for test-time scaling, we have our first NVlink 72 clusters live in Azure. Here’s to the next generation of AI built on these systems!
+
+AI is already transforming the lives of people across India by creating new opportunities and jobs. We're committed to helping to equip 10 million Indians with essential AI skills by 2030.
+Read: From civil servants to college students, Indians are getting trained in AI tools for work and life - news.microsoft.com
+
+Thrilled to announce our new investments in AI infrastructure and skilling in India to help accelerate the country’s AI transformation. https://lnkd.in/g5TYP7xJ
+
+Thank you, PM Narendra Modi ji for your leadership. Excited to build on our commitment to making India AI-first and work together on our continued expansion in the country to ensure every Indian benefits from this AI platform shift.
+
+---
+
+## Satya Nadella: Skills and Economic Opportunity
+
+Every general-purpose technology creates new opportunity across the economy. But it requires companies and countries to invest in new infrastructure and equip people with the right skills. And that’s what we are doing at Microsoft in this AI era, starting in the US.
+
+As Brad Smith outlines, we want to ensure every American benefits from this AI platform shift, whether it is a scientist discovering a new drug or a high school grad launching a career in cyber security, a farmer embracing precision agriculture or a small business owner becoming more competitive.
+
+The Golden Opportunity for American AI: blogs.microsoft.com
+
+---
+
+## Satya Nadella: Free Copilot and Global Impact
+
+GitHub Copilot Free for VS Code has arrived.  
+Sign up today: https://lnkd.in/gdAcfCnm
+
+The pace of AI innovation this past year has been truly remarkable. What stands out is the incredible speed at which this technology has diffused, turning innovation into real impact—one person, one organization, one community at a time.
+
+---
+
+## Satya Nadella: Tributes and Healthcare Copilot
+
+A true legend, Ustad Zakir Hussain, who brought immense joy through his rhythmic brilliance. Your music transcends boundaries and will live on forever. #Legend #Alvida #MusicLivesOn
+
+I loved this example our healthcare team shared at a radiology conference about the power of Microsoft 365 Copilot to transform workflow:  
+Radiologists preparing for a tumor board meeting use Copilot to create a draft agenda, take notes, write a teaching file, and pull together a presentation. We're seeing real world examples like this one across every sector.
+
+---
+
+## Satya Nadella: Agents in Copilot and Partners
+
+Agents in Microsoft 365 Copilot work with you and on your behalf, breaking down silos across your business applications.
+
+It’s fantastic to see how our partners like Adobe, SAP, ServiceNow, and more are building agents to bring their unique knowledge into the flow of your work and transform business processes and functions, from HR and finance to sales.
+
+The notion that you have to go to siloed, bespoke business applications one at a time will be a thing of the past.
+Learn more: https://lnkd.in/dF9hZ2RQ
