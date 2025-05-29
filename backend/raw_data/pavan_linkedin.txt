@@ -1,0 +1,100 @@
+## About: Energizing Week at Build
+
+It was an energizing week for Windows at Build. Thank you to everyone who joined us to explore the future of AI and the role Windows plays in unlocking it. We’re grateful for the opportunity to share our work and connect with the developer community!
+
+## About: Windows ML and Silicon Partners
+
+Windows ML empowers developers to easily bring AI to their applications and take advantage of the latest innovation in GPU, NPU, and CPUs from our silicon partners — AMD, Intel Corporation, NVIDIA, and Qualcomm. Together, we're co-engineering to deliver high-performance AI on Windows across a diverse ecosystem. We're grateful for their continued partnership!
+
+## About: Day One at Build
+
+Day one of Build kicked off with incredible energy, inspiring conversations, and a chance to share how we’re making Windows the best platform for AI development. Proud of the team and excited for what’s ahead!
+
+## About: Windows Evolves for the AI Era
+
+Windows continues to evolve for the AI era - open, flexible, and built to empower developers. We’re excited to be back at Build, connecting with the global developer community and sharing the latest innovations from the team. Today, we’re introducing new platform capabilities and tools that make it even easier to build, scale, and deploy AI-powered experiences across the edge and the cloud.
+
+## About: Microsoft Build Event
+
+Microsoft Build has arrived in Seattle and we're just about ready to push to prod. It all kicks off tomorrow—get ready to experience innovation, connection, and the future of development. Tune in live for the opening keynote.
+
+## About: Phi-4 Reasoning Models
+
+Exciting news from the team! Phi-4-reasoning + Phi-4-mini-reasoning models optimized using ONNX are now available to use on Snapdragon-powered Copilot+ PCs. This is an important step in continuing to deliver smarter and more efficient AI. Get started with the AI Toolkit extension in VS Code today!
+
+## About: AI Agent in Windows Settings
+
+We're previewing a new way to help make managing your PC easier with an AI-powered agent in Settings. Now available for Windows Insiders on Copilot+ PCs in the Beta Channel, give it a try and let us know what you think!
+
+## About: Windows 11 Start Menu Design
+
+The design of the new Start menu in Windows 11 is a reflection of our passion for craft, from layout to textures to motion. Go behind the scenes with our team to learn more about how every detail was considered to create a polished, personal experience.
+
+## About: Next Generation Windows Experiences
+
+Today, we’re also introducing the next wave of Windows experiences designed to adapt to you including adding an agent to Settings, more actions in Click to Do and improved Windows search, updates to Narrator and more! Everything we are building is about making your Windows experience more effortless and personal.
+
+## About: Surface Copilot+ PC Family
+
+We’re excited to introduce new additions to the Surface Copilot+ PC family, Surface Laptop, 13-inch and Surface Pro, 12-inch. Crafted for portability, built for performance, and enhanced with AI to help you do more, faster. Whether you're creating or connecting, these devices were made for you.
+
+## About: Windows 365 Offer
+
+You’ve heard us talk about the future of Windows being AI and Cloud — and we’re continuing to make that future more accessible. Starting today, we’re offering 20% off Windows 365 across all editions and markets to help more organizations experience the flexibility of Windows — whether it’s on a new Copilot+ PC or a Cloud PC accessible from any device. With Windows 10 End of Support coming, now is the time to move to Windows 11.
+
+## About: Copilot+ PC Experiences Expansion
+
+We're thrilled to take another step toward making Windows the destination for AI. Recall (preview), Click to Do (preview), and improved Windows search are now generally available for Copilot+ PCs — bringing new ways to find, remember, and get things done faster. We’re proud of this milestone and we can’t wait for you to experience the power of these new features!
+
+## About: Microsoft 50th Anniversary
+
+50 years of Microsoft. This moment is a powerful milestone that reflects the passion, resilience, and innovation of countless people working together with purpose. It was special and fun to come together and celebrate with the team. The journey so far has been incredible, and the road ahead is just as inspiring!
+
+## About: AI Innovation Journey
+
+Innovation in AI is a journey, not a destination. Grateful for the moments, teams, and milestones that brought us here — with Copilot+ PCs now a part of our story! The rapid rise of AI at work might feel new, but the tech behind it has been in the works for years. Our journey spans decades, from early breakthroughs in computer vision and language understanding to tools like Copilot that are reshaping productivity today.
+
+## About: Windows 365 Link and Frontline Shared Mode
+
+A big day for Windows 365! The team is delivering meaningful innovations to empower businesses in today’s dynamic world. With the launch of Windows 365 Link, customers can securely connect to their Cloud PC in seconds. And with new Windows 365 Frontline shared mode, we’re making Cloud PCs more accessible than ever.
+
+## About: Expanding Copilot+ PC Experiences
+
+Our ambition to make Windows the destination for AI continues! By expanding Copilot+ PC experiences across AMD, Intel, and Snapdragon devices, we’re making it easier for people to create and connect seamlessly. From Live Captions to Cocreator, Restyle Image and Image Creator, these experiences are designed to unlock new possibilities for everyone.
+
+## About: Windows Resiliency Initiative
+
+Quick Machine Recovery (QMR), part of the Windows Resiliency Initiative announced at Ignite 2024, is now available in the latest Windows Insider Preview build in the Beta Channel. This is an important step on our journey to build a more resilient Windows. We look forward to Insider feedback!
+
+## About: Accessibility and Inclusion
+
+Thank you, David Dame, for your leadership and vision! Your story is a powerful reminder of the impact accessible technology can have on people’s lives. Accessibility transforms lives. See how Windows incorporates inclusive design and assistive technology to empower individuals with disabilities to unlock their full potential. 
+
+## About: Epic and Qualcomm Partnership
+
+Exciting news from our partners at Epic and Qualcomm — they’re working to bring Easy Anti-Cheat support to Snapdragon-powered Windows PCs and making Fortnite available for these devices later this year. Looking forward to playing on my Surface Laptop!
+
+## About: Copilot for Gaming
+
+With Copilot for Gaming, you can jump back into games faster, get real-time coaching, and stay connected... all on your own terms. Excited for what the team has in store!
+
+## About: Perplexity App on Windows
+
+Thrilled to welcome the Perplexity app to Windows! People have been asking for a Windows app ever since we released our Mac app. Our goal is to be present anywhere the user wants. This also helps us be a command shortcut away for any new query you want, to fight the search bar stronghold Google has on Chrome.
+
+## About: DeepSeek R1 Models
+
+Today, we are advancing our AI ambitions with the release of DeepSeek R1 7B & 14B distilled models for Copilot+ PCs via Azure AI Foundry. This is the next step on our journey to continue to make Windows the platform for AI, seamlessly integrating intelligence from the cloud to the edge. Congrats to the team for reaching this milestone!
+
+## About: Optimizing LLMs for Edge Devices
+
+Optimizing LLMs for edge devices can be a challenge — especially when balancing model size and reasoning quality. Our team is pushing the boundaries of what’s possible, introducing new techniques to fit large-scale language models on PCs with limited memory and maintain high-quality reasoning.
+
+## About: Super Resolution for Teams
+
+Delighted to see Super Resolution for Teams now in public preview on Snapdragon-powered Copilot+ PCs. Leveraging the NPU, this feature enhances video quality even in low-bandwidth conditions. Big thanks to Jeff Teper and team for the collaboration to bring this to life for our customers!
+
+## About: Surface for Business Copilot+ PC Family
+
+We're thrilled to introduce the latest additions to our Microsoft Surface for Business Copilot+ PC family: Surface Pro and Surface Laptop, now available with the latest Intel Core Ultra processors. And for the first time ever, we’re adding cellular connectivity to our Surface Laptop lineup, ensuring you stay connected wherever business takes you. These devices are designed to fuel productivity, accelerate growth, and empower businesses to succeed.
+
