@@ -25,8 +25,26 @@ An intelligent multi-agent AI system built for Microsoft Teams to accelerate str
                |   Reasoning, Inspector)  |      +-------------------------+ 
                +--------------------------+   
 ```
+System Flow:
 
+1. Frontend: Built with React + TypeScript, provides an intuitive UI for chat, evidence, and     
+             actions.
+
+2. Backend: FastAPI server orchestrates a multi-agent graph:
+
+   Retriever Agent: Finds the most relevant, persona-specific context.
+
+   Synthesizer: Generates concise, source-cited executive answers.
+
+   Reasoner: Explains why these chunks and actions were chosen.
+
+   Inspector: Reviews answers for quality, faithfulness, and justification.
+
+   Automation Nodes: Integrate with GitHub, JIRA, Teams Calendar, and more.
+   
 ##3. Getting Started
+    
+Prerequisites: Python 3.10+, Node.js 16+, API tokens for JIRA and GitHub.
 
 1. **Clone the repo**
 
@@ -51,14 +69,32 @@ An intelligent multi-agent AI system built for Microsoft Teams to accelerate str
    npm run dev    # http://localhost:3000
    ```
 
-##4. Usage
+##4. Configuration
 
-* Open Microsoft Teams and install the "AI Operating Officer" app.
-* Type your query (e.g., "Analyze cloud readiness roadmap").
+.env.example: Template for all required environment variables (copy to .env and fill values)
+
+JIRA_EMAIL=...
+
+JIRA_API_TOKEN=...
+
+JIRA_PROJECT_KEY=...
+
+GITHUB_TOKEN=...
+
+GITHUB_ORG=...
+
+GRAPH_API_TOKEN=...
+
+requirements.txt: Lists all backend Python dependencies.
+
+##5. Usage
+
+* from web UI type http://localhost:3000 to access the "AI Operating Officer" app.
+* Type your query (e.g., "What is Satya Nadella’s perspective on migrating legacy systems to the cloud and spin up a PoC repo to explore it.").
 * Review synthesized answer, source citations, and suggested actions.
 * Click action buttons to create tickets, repos, or schedule meetings instantly.
 
-##5. Repository Structure
+##6. Repository Structure
 
 ```
 backend/        # FastAPI implementation & multi-agent graph
