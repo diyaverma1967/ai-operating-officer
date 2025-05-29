@@ -44,7 +44,7 @@ System Flow:
    
 ##3. Getting Started
     
-Prerequisites: Python 3.10+, Node.js 16+, API tokens for JIRA and GitHub.
+  Prerequisites: Python 3.10+, Node.js 16+, API tokens for JIRA and GitHub.
 
 1. **Clone the repo**
 
@@ -69,32 +69,14 @@ Prerequisites: Python 3.10+, Node.js 16+, API tokens for JIRA and GitHub.
    npm run dev    # http://localhost:3000
    ```
 
-##4. Configuration
-
-.env.example: Template for all required environment variables (copy to .env and fill values)
-
-JIRA_EMAIL=...
-
-JIRA_API_TOKEN=...
-
-JIRA_PROJECT_KEY=...
-
-GITHUB_TOKEN=...
-
-GITHUB_ORG=...
-
-GRAPH_API_TOKEN=...
-
-requirements.txt: Lists all backend Python dependencies.
-
-##5. Usage
+##4. Usage
 
 * from web UI type http://localhost:3000 to access the "AI Operating Officer" app.
 * Type your query (e.g., "What is Satya Nadella’s perspective on migrating legacy systems to the cloud and spin up a PoC repo to explore it.").
 * Review synthesized answer, source citations, and suggested actions.
 * Click action buttons to create tickets, repos, or schedule meetings instantly.
 
-##6. Repository Structure
+##5. Repository Structure
 
 ```
 backend/        # FastAPI implementation & multi-agent graph
