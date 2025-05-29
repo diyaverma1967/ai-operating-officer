@@ -1,4 +1,3 @@
-
 "use client";
 
 import { useState } from "react";
@@ -7,9 +6,14 @@ import ResultCard from "./ResultCard";
 import LoadingSpinner from "./LoadingSpinner";
 import { AgentResponse } from "@/types";
 
+type QA = {
+  query: string;
+  response: AgentResponse | null;
+};
+
 export default function Dashboard() {
   const [query, setQuery] = useState("");
-  const [response, setResponse] = useState<AgentResponse | null>(null);
+  const [history, setHistory] = useState<QA[]>([]);
   const [loading, setLoading] = useState(false);
 
   const handleSubmit = async () => {
@@ -20,10 +24,11 @@ export default function Dashboard() {
     setLoading(true);
     try {
       const res = await fetchResponse(query);
-      setResponse(res);
+      // Prepend the new result to history (newest at top)
+      setHistory(prev => [{ query, response: res }, ...prev]);
+      setQuery(""); // Optionally clear input after submit
     } catch (err) {
       console.error("API Error", err);
-      setResponse(null);
     } finally {
       setLoading(false);
     }
@@ -43,6 +48,7 @@ export default function Dashboard() {
           placeholder="e.g., What does Satya think about cloud migration?"
           rows={5}
           className="w-full p-5 border border-gray-300 rounded-3xl focus:outline-none focus:ring-4 focus:ring-indigo-400 resize-none text-lg leading-relaxed shadow-md transition"
+          disabled={loading}
         />
 
         <button
@@ -56,7 +62,16 @@ export default function Dashboard() {
 
         {loading && <LoadingSpinner />}
 
-        {response && <ResultCard response={response} />}
+        {/* Render each result, newest first */}
+        {history.map((qa, idx) => (
+          <div key={idx} className="mt-8">
+            <div className="mb-2 text-indigo-900 font-semibold text-lg">
+              Q{history.length - idx}: {qa.query}
+            </div>
+            {qa.response && <ResultCard response={qa.response} />}
+          </div>
+        ))}
+
       </div>
     </div>
   );
