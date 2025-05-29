@@ -70,11 +70,11 @@ System Flow:
    ```
 4. **.env**
 
-  JIRA_EMAIL=your-email@example.com
-  JIRA_API_TOKEN=your-token-here
-  JIRA_PROJECT_KEY=PT
-  GITHUB_TOKEN=your-github-token
-  GITHUB_ORG=your-github-org
+   JIRA_EMAIL=your-email@example.com
+   JIRA_API_TOKEN=your-token-here
+   JIRA_PROJECT_KEY=PT
+   GITHUB_TOKEN=your-github-token
+   GITHUB_ORG=your-github-org
 
 ##4. Usage
 
