@@ -7,7 +7,7 @@ An intelligent multi-agent AI system built for Microsoft Teams to accelerate str
 
 ##1. Value Proposition
 
-* **Strategic Insights**: Synthesizes information across text, audio, slides, and code to deliver board-room–ready recommendations. Persona‑accurate Synthesis Answer in the voice of three company leaders (CTO, CISO, Head of Product) and transparently show which sentences were lifted, which were generated.
+* **Strategic Insights**: Synthesizes information across text, audio, slides, and code to deliver board-room–ready recommendations.
 * **Persona-Accurate Delivery**: Answers in the voice of executives (CEO, CTO, Head of Product) with transparent source attribution.
 * **Closed-Loop Automation**: One-click actions to create GitHub repos, open JIRA tickets, or schedule follow-up meetings via Graph API.
 * **Explain & Improve**: Exposes its reasoning chain, collects feedback, and auto-scores with RAGAS + DeepEval for continual learning.
